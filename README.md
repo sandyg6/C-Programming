@@ -6,3 +6,4 @@ C Programs
 4. To convert fahrenheit to celcius temperature [code](https://github.com/sandyg6/C-Programming/blob/main/temperature.c)
 5. To calculate the sum of digits of a number [code](https://github.com/sandyg6/C-Programming/blob/main/sum.c)
 6. To print even numbers using continue statement [code](https://github.com/sandyg6/C-Programming/blob/main/even.c)
+7. To find the factorial of a given number [code](https://github.com/sandyg6/C-Programming/blob/main/fact.c)
