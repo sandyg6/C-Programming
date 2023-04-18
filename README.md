@@ -7,4 +7,4 @@ C Programs
 5. To calculate the sum of digits of a number [code](https://github.com/sandyg6/C-Programming/blob/main/sum.c)
 6. To print even numbers using continue statement [code](https://github.com/sandyg6/C-Programming/blob/main/even.c)
 7. To find the factorial of a given number [code](https://github.com/sandyg6/C-Programming/blob/main/fact.c)
-8. TO print the square of integers using for loop [code](https://github.com/sandyg6/C-Programming/blob/main/square.c)
+8. To print the square of integers using for loop [code](https://github.com/sandyg6/C-Programming/blob/main/square.c)
