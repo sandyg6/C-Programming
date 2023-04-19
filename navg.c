@@ -23,4 +23,5 @@ int main()
     while(count<=num);
     average=sum/navg;
     printf("\n The average is %f \n",average);
+    return 0;
 }
