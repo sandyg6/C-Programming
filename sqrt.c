@@ -14,4 +14,5 @@ int main()
     goto input;
     end:
     printf("Press any key");
+    return 0;
 }
