@@ -4,7 +4,7 @@ int main()
 {
     int num, count, navg=0;
     float x, average, sum=0;
-    printf("How many numbers?");
+    printf("How many numbers?:");
     scanf("%d",&num);
     count=1;
     do
