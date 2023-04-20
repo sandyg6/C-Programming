@@ -10,3 +10,4 @@ C Programs
 8. To print the square of integers using for loop [code](https://github.com/sandyg6/C-Programming/blob/main/square.c)
 9. To find the average of positive numbers using continue statement [code](https://github.com/sandyg6/C-Programming/blob/main/navg.c)
 10. To find out the square root of the numbers [code](https://github.com/sandyg6/C-Programming/blob/main/sqrt.c)
+11. To copy the content of the string without using string function [code](https://github.com/sandyg6/C-Programming/blob/main/copy.c)
