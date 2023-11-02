@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int k,a;
     k=1;
