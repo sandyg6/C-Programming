@@ -2,7 +2,6 @@
 #include<string.h>
 #define size 100
 
-int compare(char *str1, char *str2);
 int main() {
     char text[size];
     printf("Enter text: ");
