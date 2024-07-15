@@ -15,3 +15,5 @@ C Programs
 
 
 Simple Pattern Printing programs using c language [program](https://github.com/sandyg6/C-Programming/tree/main/Pattern%20Printing)
+
+Strings [programs](https://github.com/sandyg6/C-Programming/tree/main/Strings)
