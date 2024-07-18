@@ -29,7 +29,7 @@ int main() {
     char str[100], word[100];
     printf("Enter a string:");
     gets(str);
-    printf("Enter a word to find:");
+    printf("Enter a word to remove:");
     gets(word);
     toRemove(str,word);
     puts(str);
