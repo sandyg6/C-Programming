@@ -12,3 +12,28 @@ Explanation:
 2 and 2-4th digits are same - So it is 0 
 So 0100 is the digit - this in decimal is 4
 </pre>
+[P2](https://github.com/sandyg6/C-Programming/blob/main/Arrays/Pr0blem2.c). You are given an amount of money and need to determine the minimum number of notes required to represent that amount using the following denominations: Rs. 500, 100, 50, 20, 10, 5, 2, and 1. The task should handle multiple test cases.
+<pre>
+Sample input:
+  2
+  575
+  1070
+Sample Output:
+  500:1
+  100:0
+  50:1
+  20:1
+  10:0
+  5:1
+  2:0
+  1:0
+  
+  500:2
+  100:0
+  50:1
+  20:1
+  10:0
+  5:0
+  2:0
+  1:0
+</pre>
