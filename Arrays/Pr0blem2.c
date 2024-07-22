@@ -8,8 +8,8 @@ int main(){
         scanf("%d",&money[m]);
     }
     int values[] = {500,100,50,20,10,5,2,1};
-    int count[8] = {0};
     for(int l=0;l<n;l++){
+        int count[8] = {0};
         int i=0;
         while(money[l]>0){
             while(money[l] >= values[i]){
