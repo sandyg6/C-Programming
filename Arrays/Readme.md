@@ -1,4 +1,4 @@
-
+## Problems
 [P1](https://github.com/sandyg6/C-Programming/blob/main/Arrays/Pr0blem1.c). Write a program that takes two integer inputs and compares their digits. If the corresponding digits are equal, the program should output 0 for that digit position; otherwise, it should output 1. Finally, the program should display the decimal equivalent of the resulting binary number.
 <pre>
 Input: 
