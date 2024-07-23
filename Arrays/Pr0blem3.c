@@ -10,8 +10,14 @@ int main(){
         sub[i]=0;
     }
     for(int j=0;j<n;j++){
+        if(arr[j] <= 0){
+            printf("Invalid value in the array!!");
+            goto out;
+        }
+        else{
         int k = j+1;
         sub[j]= abs(arr[k] - arr[j]);
+        }
     }
     int min = 0;
     for(int l=1;l<n;l++){
@@ -20,4 +26,6 @@ int main(){
         }
     }
     printf("%d",sub[min]);
+    out:
+    return 0;
 }
