@@ -37,3 +37,18 @@ Sample Output:
   2:0
   1:0
 </pre>
+[P3](https://github.com/sandyg6/C-Programming/blob/main/Arrays/Pr0blem3.c). Find the Minimum difference pair Given an unsorted array, find the minimum difference between any pair in given array.
+<pre>
+Sample input:
+  1
+  5
+  2 4 5 7 9
+Sample output:
+  1
+Sample input:
+  1
+  5
+  0 0 1 2 3
+Sample output:
+Invalid value in array!!!
+</pre>
